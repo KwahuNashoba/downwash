@@ -1,0 +1,19 @@
+{
+  "name": "downwash",
+  "version": "0.0.1",
+  "description": "Download media from your unmanned aircraft (drone) in clean and organized way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwahuNashoba/downwash.git"
+  },
+  "author": "Данило Хаџи-Пешић",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwahuNashoba/downwash/issues"
+  },
+  "homepage": "https://github.com/KwahuNashoba/downwash#readme"
+}
